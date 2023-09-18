@@ -1,0 +1,184 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header>div{
+    background-color: rgba(255, 255, 255, 0.156);
+}   
+.nav>img{
+    display: inline;
+    width: 40px;
+    height: 40px;
+    max-width:100%;
+}
+
+.grey{
+    color:grey
+}
+
+.inp{
+    border-color: black;
+    display: inline;
+    border-radius: 0px;
+    border-color: transparent;
+    height: 30px;
+
+}
+
+.nav{
+    display: inline;
+    border-radius: 10px;
+}
+
+.righ{
+    float: right;
+}
+
+.righ>span{
+    color: grey;
+    font-size: 15px;
+}
+
+.righ>img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+section{
+    display: grid;
+}
+
+.soup{
+    width: 25px;
+    height: 25px;
+    border-radius: 50px; 
+}
+
+.rigt{
+    float: right;
+}
+
+.polaroid{
+    height: 100px;
+    float: right;
+}
+
+.gre{
+    color:grey;
+}
+
+.side{
+    display: flex;
+}
+
+.left{
+    float:left;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.rigt{
+    float:right;
+}
+
+.inc{
+    font-size: 250%;
+}
+
+.move{
+    float: right;
+    width: 90px;
+}
+
+.mover{
+    float: right;
+    width: 10px;
+}
+
+.umer{
+    width: 25px;
+    height: 25px;
+    border-radius: 50px; 
+}
+
+.clap{
+    border-color: white;
+    background-color: transparent;
+    border: 0cm;
+    border-color: transparent;
+}
+
+.triple{
+    float: right;
+    background-color: transparent;
+    border: 0cm;
+}
+
+.mark{
+    float: right;
+    background-color: transparent;
+    border: 0cm;
+}
+
+.comment{
+    background-color: transparent;
+    border: 0cm;
+}
+
+.mark:hover{
+    cursor: pointer;
+}
+.clap:hover{
+    cursor: pointer;
+}
+.triple:hover{
+    cursor: pointer;
+}
+
+.comment:hover{
+    cursor: pointer;
+}
+
+.grey{
+    float: bottom;
+}
+
+.drop{
+    background-color: transparent;
+    border: 0cm;
+}
+
+.drop:hover{
+    cursor: pointer;
+}
+
+.penpaper{
+    background-color: transparent;
+    border: 0cm;
+}
+
+.bell{
+    background-color: transparent;
+    border: 0cm;
+}
+
+.bell:hover{
+    cursor: pointer;
+}
+
+.penpaper:hover{
+    cursor: pointer;
+}
+
+.glass{
+    background-color: transparent;
+    border: 0cm;
+}
+
+.glass:hover{
+    cursor: pointer;
+}
